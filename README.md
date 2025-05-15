@@ -8,7 +8,7 @@ HTML , CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
 <table>
  <tr>
  <div align="center">
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747295880/znasexflfstp0wc3alcz.webp" width="500"></td>
+  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317708/Github%20Project/x7jcfhfvnpb4m30ba1fe.webp" width="500"></td>
   <!-- <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747293525/nalenbpupbhhfldrkn2w.png" width="500"></td> -->
  </tr>
 </table>
@@ -23,7 +23,7 @@ HTML , CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you want to contact me, you can reach me through the handles below.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/g-rahul-871002255/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
