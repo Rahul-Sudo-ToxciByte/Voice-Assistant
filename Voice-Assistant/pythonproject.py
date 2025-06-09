@@ -47,7 +47,7 @@ def takeCommand():
         return "None"
     return query     
 def takeCommand():
-    #It takes microphone input from the user and returns string output
+    #It takes microphone input from the user and returns a string output
 
     r = sr.Recognizer()
     with sr.Microphone() as source:
