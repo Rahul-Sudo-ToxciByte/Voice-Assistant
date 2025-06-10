@@ -1,0 +1,30 @@
+{
+    "name": "Auto Startup",
+    "description": "Automatically starts Jarvis when the system boots up",
+    "version": "1.0.0",
+    "author": "Jarvis Team",
+    "main": "__init__.py",
+    "dependencies": [
+        "pywin32"
+    ],
+    "permissions": [
+        "system_monitor"
+    ],
+    "config_schema": {
+        "enabled": {
+            "type": "boolean",
+            "description": "Enable auto startup",
+            "default": true
+        },
+        "minimize_on_startup": {
+            "type": "boolean",
+            "description": "Start minimized in system tray",
+            "default": false
+        },
+        "delay_seconds": {
+            "type": "integer",
+            "description": "Delay in seconds before starting after boot",
+            "default": 10
+        }
+    }
+}
