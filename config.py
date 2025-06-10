@@ -1,4 +1,4 @@
 # OpenAI Configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
  
 # Other configurations 
