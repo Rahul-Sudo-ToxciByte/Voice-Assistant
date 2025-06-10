@@ -1,8 +1,8 @@
-# Voice Assistant
-Let's Simplify the way of living.
+# Voice Assistant Hey Jarvis
+Let's simplify the way of living.
 
 ## 📌 Tech Stack
-HTML , CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
+HTML, CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
 
 ## Some Glimpse 🤩 :
 <table>
