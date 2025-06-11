@@ -1,4 +1,0 @@
-wake_word: "hey jarvis"
-language: "en"
-voice_model: "male"
-assistant_mode: "developer" 
