@@ -1,0 +1,737 @@
+2025-06-09 09:22:22.009 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:22:22.009 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:22:50.609 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:22:50.609 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:26:13.076 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:26:13.076 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:27:05.754 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:27:05.755 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:27:41.762 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:27:41.762 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:30:04.739 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:30:04.739 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:30:05.087 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:30:05.088 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:30:05.088 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: send email
+2025-06-09 09:30:05.088 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: read emails
+2025-06-09 09:30:05.089 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: search emails
+2025-06-09 09:30:05.089 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check calendar
+2025-06-09 09:30:05.090 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: add event
+2025-06-09 09:30:05.090 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: connect device
+2025-06-09 09:30:05.090 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: list devices
+2025-06-09 09:30:05.090 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check security
+2025-06-09 09:30:05.091 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: analyze text
+2025-06-09 09:30:05.091 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: summarize
+2025-06-09 09:30:05.091 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: extract keywords
+2025-06-09 09:30:05.091 | INFO     | __main__:start:321 - Starting Jarvis Assistant...
+2025-06-09 09:30:08.350 | INFO     | modules.voice_commands:start:62 - Voice command system started
+2025-06-09 09:30:08.351 | INFO     | __main__:start:334 - Jarvis Assistant is running
+2025-06-09 09:32:13.553 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:32:13.554 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:32:13.864 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:32:13.865 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:32:13.865 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: send email
+2025-06-09 09:32:13.866 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: read emails
+2025-06-09 09:32:13.866 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: search emails
+2025-06-09 09:32:13.866 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check calendar
+2025-06-09 09:32:13.867 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: add event
+2025-06-09 09:32:13.867 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: connect device
+2025-06-09 09:32:13.867 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: list devices
+2025-06-09 09:32:13.868 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check security
+2025-06-09 09:32:13.868 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: analyze text
+2025-06-09 09:32:13.868 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: summarize
+2025-06-09 09:32:13.869 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: extract keywords
+2025-06-09 09:32:13.869 | INFO     | __main__:start:321 - Starting Jarvis Assistant...
+2025-06-09 09:32:17.482 | INFO     | modules.voice_commands:start:62 - Voice command system started
+2025-06-09 09:32:17.484 | INFO     | __main__:start:334 - Jarvis Assistant is running
+2025-06-09 09:37:10.489 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:37:10.489 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:37:10.810 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:37:10.812 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:37:10.812 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: send email
+2025-06-09 09:37:10.812 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: read emails
+2025-06-09 09:37:10.813 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: search emails
+2025-06-09 09:37:10.813 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check calendar
+2025-06-09 09:37:10.814 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: add event
+2025-06-09 09:37:10.815 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: connect device
+2025-06-09 09:37:10.815 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: list devices
+2025-06-09 09:37:10.815 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check security
+2025-06-09 09:37:10.816 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: analyze text
+2025-06-09 09:37:10.816 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: summarize
+2025-06-09 09:37:10.816 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: extract keywords
+2025-06-09 09:37:10.817 | INFO     | __main__:start:321 - Starting Jarvis Assistant...
+2025-06-09 09:37:14.329 | INFO     | modules.voice_commands:start:62 - Voice command system started
+2025-06-09 09:37:14.331 | INFO     | __main__:start:334 - Jarvis Assistant is running
+2025-06-09 09:38:04.225 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:38:04.226 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:38:04.655 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:38:04.656 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:38:04.656 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: send email
+2025-06-09 09:38:04.657 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: read emails
+2025-06-09 09:38:04.657 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: search emails
+2025-06-09 09:38:04.658 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check calendar
+2025-06-09 09:38:04.658 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: add event
+2025-06-09 09:38:04.658 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: connect device
+2025-06-09 09:38:04.659 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: list devices
+2025-06-09 09:38:04.659 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: check security
+2025-06-09 09:38:04.659 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: analyze text
+2025-06-09 09:38:04.660 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: summarize
+2025-06-09 09:38:04.660 | INFO     | modules.voice_commands:register_command:183 - Registered command handler for: extract keywords
+2025-06-09 09:38:04.660 | INFO     | __main__:start:321 - Starting Jarvis Assistant...
+2025-06-09 09:38:07.464 | INFO     | modules.voice_commands:start:62 - Voice command system started
+2025-06-09 09:38:07.465 | INFO     | __main__:start:334 - Jarvis Assistant is running
+2025-06-09 09:40:11.772 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:40:11.772 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:40:12.095 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:40:12.096 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:40:12.096 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: send email
+2025-06-09 09:40:12.097 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: read emails
+2025-06-09 09:40:12.097 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: search emails
+2025-06-09 09:40:12.098 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: check calendar
+2025-06-09 09:40:12.098 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: add event
+2025-06-09 09:40:12.098 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: connect device
+2025-06-09 09:40:12.099 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: list devices
+2025-06-09 09:40:12.099 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: check security
+2025-06-09 09:40:12.099 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: analyze text
+2025-06-09 09:40:12.099 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: summarize
+2025-06-09 09:40:12.100 | INFO     | modules.voice_commands:register_command:153 - Registered command handler for: extract keywords
+2025-06-09 09:40:12.100 | INFO     | __main__:start:321 - Starting Jarvis Assistant...
+2025-06-09 09:40:12.100 | INFO     | modules.voice_commands:start:57 - Voice command system started
+2025-06-09 09:40:14.527 | INFO     | __main__:start:334 - Jarvis Assistant is running
+2025-06-09 09:40:19.553 | INFO     | modules.voice_commands:_capture_audio:94 - Wake word detected!
+2025-06-09 09:42:37.236 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:42:37.236 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:42:37.589 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:42:37.590 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:42:37.591 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: send email
+2025-06-09 09:42:37.592 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: read emails
+2025-06-09 09:42:37.592 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: search emails
+2025-06-09 09:42:37.593 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: check calendar
+2025-06-09 09:42:37.593 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: add event
+2025-06-09 09:42:37.594 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: connect device
+2025-06-09 09:42:37.594 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: list devices
+2025-06-09 09:42:37.595 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: check security
+2025-06-09 09:42:37.595 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: analyze text
+2025-06-09 09:42:37.596 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: summarize
+2025-06-09 09:42:37.596 | INFO     | modules.voice_commands_new:register_command:139 - Registered command handler for: extract keywords
+2025-06-09 09:42:37.596 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:42:37.597 | INFO     | modules.voice_commands_new:initialize:33 - Voice command system initialized
+2025-06-09 09:42:37.597 | INFO     | modules.voice_commands_new:start:42 - Voice command system started
+2025-06-09 09:42:40.524 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:43:43.728 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:43:43.728 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:43:44.068 | INFO     | modules.voice_commands_new:__init__:53 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 09:43:44.068 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:43:44.069 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:43:44.070 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: send email
+2025-06-09 09:43:44.070 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: read emails
+2025-06-09 09:43:44.071 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: search emails
+2025-06-09 09:43:44.071 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: check calendar
+2025-06-09 09:43:44.071 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: add event
+2025-06-09 09:43:44.072 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: connect device
+2025-06-09 09:43:44.072 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: list devices
+2025-06-09 09:43:44.072 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: check security
+2025-06-09 09:43:44.073 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: analyze text
+2025-06-09 09:43:44.073 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: summarize
+2025-06-09 09:43:44.073 | INFO     | modules.voice_commands_new:register_command:164 - Registered command handler for: extract keywords
+2025-06-09 09:43:44.074 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:43:44.074 | INFO     | modules.voice_commands_new:initialize:58 - Voice command system initialized
+2025-06-09 09:43:44.075 | INFO     | modules.voice_commands_new:start:67 - Voice command system started
+2025-06-09 09:43:46.999 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:44:04.161 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:44:04.161 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:44:04.496 | INFO     | modules.voice_commands_new:__init__:61 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 09:44:04.496 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:44:04.497 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:44:04.498 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: send email
+2025-06-09 09:44:04.498 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: read emails
+2025-06-09 09:44:04.499 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: search emails
+2025-06-09 09:44:04.499 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: check calendar
+2025-06-09 09:44:04.499 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: add event
+2025-06-09 09:44:04.500 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: connect device
+2025-06-09 09:44:04.500 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: list devices
+2025-06-09 09:44:04.500 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: check security
+2025-06-09 09:44:04.500 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: analyze text
+2025-06-09 09:44:04.501 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: summarize
+2025-06-09 09:44:04.501 | INFO     | modules.voice_commands_new:register_command:172 - Registered command handler for: extract keywords
+2025-06-09 09:44:04.501 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:44:04.502 | INFO     | modules.voice_commands_new:initialize:66 - Voice command system initialized
+2025-06-09 09:44:04.502 | INFO     | modules.voice_commands_new:start:75 - Voice command system started
+2025-06-09 09:44:07.435 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:47:22.951 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:47:22.952 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:47:23.338 | INFO     | modules.voice_commands_new:__init__:76 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 09:47:23.338 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:47:23.339 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:47:23.340 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: send email
+2025-06-09 09:47:23.340 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: read emails
+2025-06-09 09:47:23.341 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: search emails
+2025-06-09 09:47:23.341 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check calendar
+2025-06-09 09:47:23.342 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: add event
+2025-06-09 09:47:23.342 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: connect device
+2025-06-09 09:47:23.342 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: list devices
+2025-06-09 09:47:23.343 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check security
+2025-06-09 09:47:23.343 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: analyze text
+2025-06-09 09:47:23.343 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: summarize
+2025-06-09 09:47:23.344 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: extract keywords
+2025-06-09 09:47:23.344 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:47:23.345 | INFO     | modules.voice_commands_new:initialize:81 - Voice command system initialized
+2025-06-09 09:47:23.345 | INFO     | modules.voice_commands_new:start:90 - Voice command system started
+2025-06-09 09:47:26.286 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:49:15.545 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:49:15.545 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:49:15.901 | INFO     | modules.voice_commands_new:__init__:76 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 09:49:15.901 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:49:15.902 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:49:15.903 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: send email
+2025-06-09 09:49:15.904 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: read emails
+2025-06-09 09:49:15.904 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: search emails
+2025-06-09 09:49:15.905 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check calendar
+2025-06-09 09:49:15.905 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: add event
+2025-06-09 09:49:15.905 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: connect device
+2025-06-09 09:49:15.906 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: list devices
+2025-06-09 09:49:15.906 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check security
+2025-06-09 09:49:15.907 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: analyze text
+2025-06-09 09:49:15.907 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: summarize
+2025-06-09 09:49:15.907 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: extract keywords
+2025-06-09 09:49:15.908 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:49:15.908 | INFO     | modules.voice_commands_new:initialize:81 - Voice command system initialized
+2025-06-09 09:49:15.908 | INFO     | modules.voice_commands_new:start:90 - Voice command system started
+2025-06-09 09:49:18.842 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:51:10.783 | INFO     | core.logger:setup_logging:83 - Logging initialized with level: INFO
+2025-06-09 09:51:10.783 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 09:51:11.131 | INFO     | modules.voice_commands_new:__init__:76 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 09:51:11.132 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 09:51:11.133 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 09:51:11.133 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: send email
+2025-06-09 09:51:11.134 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: read emails
+2025-06-09 09:51:11.134 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: search emails
+2025-06-09 09:51:11.135 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check calendar
+2025-06-09 09:51:11.135 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: add event
+2025-06-09 09:51:11.136 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: connect device
+2025-06-09 09:51:11.136 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: list devices
+2025-06-09 09:51:11.137 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: check security
+2025-06-09 09:51:11.137 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: analyze text
+2025-06-09 09:51:11.138 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: summarize
+2025-06-09 09:51:11.138 | INFO     | modules.voice_commands_new:register_command:187 - Registered command handler for: extract keywords
+2025-06-09 09:51:11.138 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 09:51:11.139 | INFO     | modules.voice_commands_new:initialize:81 - Voice command system initialized
+2025-06-09 09:51:11.139 | INFO     | modules.voice_commands_new:start:90 - Voice command system started
+2025-06-09 09:51:14.079 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 09:54:30.067 | INFO     | modules.voice_commands_new:_capture_audio:127 - Wake word detected!
+2025-06-09 10:06:21.389 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:06:21.390 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:06:40.360 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:06:40.360 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:06:40.601 | INFO     | modules.voice_commands_new:__init__:33 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:06:40.602 | INFO     | modules.voice_commands_new:__init__:37 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:06:41.258 | INFO     | modules.voice_commands_new:__init__:88 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:06:41.258 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:06:41.260 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:06:41.260 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: send email
+2025-06-09 10:06:41.260 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: read emails
+2025-06-09 10:06:41.261 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: search emails
+2025-06-09 10:06:41.261 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: check calendar
+2025-06-09 10:06:41.261 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: add event
+2025-06-09 10:06:41.262 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: connect device
+2025-06-09 10:06:41.262 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: list devices
+2025-06-09 10:06:41.262 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: check security
+2025-06-09 10:06:41.263 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: analyze text
+2025-06-09 10:06:41.263 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: summarize
+2025-06-09 10:06:41.264 | INFO     | modules.voice_commands_new:register_command:223 - Registered command handler for: extract keywords
+2025-06-09 10:06:41.264 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 10:06:41.265 | INFO     | modules.voice_commands_new:initialize:93 - Voice command system initialized
+2025-06-09 10:06:41.266 | INFO     | modules.voice_commands_new:start:102 - Voice command system started
+2025-06-09 10:06:41.385 | INFO     | modules.voice_commands_new:start:107 - Testing microphone...
+2025-06-09 10:06:43.401 | INFO     | modules.voice_commands_new:start:109 - Please say something to test the microphone...
+2025-06-09 10:06:47.622 | INFO     | modules.voice_commands_new:start:112 - Test successful! Recognized: open YouTube
+2025-06-09 10:06:52.699 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 10:06:52.909 | INFO     | modules.voice_commands_new:_capture_audio:145 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:06:54.925 | INFO     | modules.voice_commands_new:_capture_audio:147 - Microphone is ready!
+2025-06-09 10:06:54.925 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:06:55.925 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:06:56.925 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:06:57.925 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:06:58.925 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:06:59.915 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:00.965 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:01.965 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:02.965 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:03.965 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:04.955 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:05.956 | INFO     | modules.voice_commands_new:_capture_audio:151 - Listening...
+2025-06-09 10:07:08.005 | INFO     | modules.voice_commands_new:_capture_audio:153 - Audio captured, processing...
+2025-06-09 10:07:08.635 | INFO     | modules.voice_commands_new:_capture_audio:157 - Recognized text: hey jarvis
+2025-06-09 10:07:08.635 | INFO     | modules.voice_commands_new:_capture_audio:160 - Wake word detected!
+2025-06-09 10:09:31.096 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:09:31.096 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:09:31.410 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:09:31.411 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:09:31.664 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:09:31.732 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:09:31.734 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:09:31.734 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: send email
+2025-06-09 10:09:31.735 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: read emails
+2025-06-09 10:09:31.735 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: search emails
+2025-06-09 10:09:31.736 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: check calendar
+2025-06-09 10:09:31.736 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: add event
+2025-06-09 10:09:31.736 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: connect device
+2025-06-09 10:09:31.737 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: list devices
+2025-06-09 10:09:31.737 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: check security
+2025-06-09 10:09:31.738 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: analyze text
+2025-06-09 10:09:31.738 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: summarize
+2025-06-09 10:09:31.738 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: extract keywords
+2025-06-09 10:09:31.739 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 10:09:31.740 | ERROR    | __main__:start:339 - Error starting Jarvis Assistant: 'VoiceCommandSystem' object has no attribute 'initialize'
+2025-06-09 10:12:10.664 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:12:10.664 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:12:10.868 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:12:10.869 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:12:11.075 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:12:11.097 | WARNING  | __main__:_init_components:70 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:12:11.098 | WARNING  | __main__:_init_components:77 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:12:11.098 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: send email
+2025-06-09 10:12:11.099 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: read emails
+2025-06-09 10:12:11.099 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: search emails
+2025-06-09 10:12:11.099 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: check calendar
+2025-06-09 10:12:11.100 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: add event
+2025-06-09 10:12:11.100 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: connect device
+2025-06-09 10:12:11.100 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: list devices
+2025-06-09 10:12:11.101 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: check security
+2025-06-09 10:12:11.101 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: analyze text
+2025-06-09 10:12:11.102 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: summarize
+2025-06-09 10:12:11.102 | INFO     | modules.voice_commands_new:register_command:277 - Registered command handler for: extract keywords
+2025-06-09 10:12:11.103 | INFO     | __main__:start:322 - Starting Jarvis Assistant...
+2025-06-09 10:12:11.104 | ERROR    | __main__:start:339 - Error starting Jarvis Assistant: 'VoiceCommandSystem' object has no attribute 'initialize'
+2025-06-09 10:13:53.013 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:13:53.014 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:13:53.131 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:13:53.132 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:13:53.394 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:13:53.426 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:13:53.429 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:13:53.429 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: send email
+2025-06-09 10:13:53.430 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: read emails
+2025-06-09 10:13:53.431 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: search emails
+2025-06-09 10:13:53.431 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: check calendar
+2025-06-09 10:13:53.432 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: add event
+2025-06-09 10:13:53.432 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: connect device
+2025-06-09 10:13:53.433 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: list devices
+2025-06-09 10:13:53.433 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: check security
+2025-06-09 10:13:53.435 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: analyze text
+2025-06-09 10:13:53.437 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: summarize
+2025-06-09 10:13:53.438 | INFO     | modules.voice_commands_new:register_command:282 - Registered command handler for: extract keywords
+2025-06-09 10:13:53.439 | INFO     | __main__:start:329 - Starting Jarvis Assistant...
+2025-06-09 10:13:53.440 | INFO     | modules.voice_commands_new:start:194 - Voice command system started
+2025-06-09 10:13:53.464 | INFO     | modules.voice_commands_new:start:199 - Testing microphone...
+2025-06-09 10:13:55.482 | INFO     | modules.voice_commands_new:start:201 - Please say something to test the microphone...
+2025-06-09 10:13:57.223 | INFO     | modules.voice_commands_new:start:204 - Test successful! Recognized: hey Jarvis
+2025-06-09 10:14:02.284 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 10:14:02.292 | INFO     | modules.voice_commands_new:_capture_audio:132 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:14:04.308 | INFO     | modules.voice_commands_new:_capture_audio:134 - Microphone is ready!
+2025-06-09 10:14:04.313 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:05.309 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:06.309 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:07.308 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:08.328 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:09.329 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:10.329 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:11.328 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:12.319 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:13.318 | INFO     | modules.voice_commands_new:_capture_audio:149 - Listening...
+2025-06-09 10:14:15.178 | INFO     | modules.voice_commands_new:_capture_audio:151 - Audio captured, processing...
+2025-06-09 10:14:15.834 | INFO     | modules.voice_commands_new:_capture_audio:155 - Recognized text: hey jarvis
+2025-06-09 10:14:15.835 | INFO     | modules.voice_commands_new:_capture_audio:158 - Wake word detected!
+2025-06-09 10:15:50.347 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:15:50.348 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:15:50.444 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:15:50.445 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:15:50.651 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:15:50.674 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:15:50.676 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:15:50.676 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: send email
+2025-06-09 10:15:50.677 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: read emails
+2025-06-09 10:15:50.677 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: search emails
+2025-06-09 10:15:50.678 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: check calendar
+2025-06-09 10:15:50.679 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: add event
+2025-06-09 10:15:50.679 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: connect device
+2025-06-09 10:15:50.679 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: list devices
+2025-06-09 10:15:50.680 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: check security
+2025-06-09 10:15:50.680 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: analyze text
+2025-06-09 10:15:50.681 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: summarize
+2025-06-09 10:15:50.682 | INFO     | modules.voice_commands_new:register_command:210 - Registered command handler for: extract keywords
+2025-06-09 10:15:50.682 | INFO     | __main__:start:329 - Starting Jarvis Assistant...
+2025-06-09 10:15:50.682 | INFO     | modules.voice_commands_new:start:224 - Voice command system started
+2025-06-09 10:15:50.701 | INFO     | modules.voice_commands_new:start:229 - Testing microphone...
+2025-06-09 10:15:52.717 | INFO     | modules.voice_commands_new:start:231 - Please say something to test the microphone...
+2025-06-09 10:15:57.723 | ERROR    | modules.voice_commands_new:start:237 - Microphone test failed: listening timed out while waiting for phrase to start
+2025-06-09 10:16:04.543 | ERROR    | __main__:start:333 - Failed to start voice command system
+2025-06-09 10:17:20.597 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:17:20.598 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:17:20.706 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:17:20.706 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:17:20.937 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:17:20.960 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:17:20.961 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:17:20.962 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: send email
+2025-06-09 10:17:20.962 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: read emails
+2025-06-09 10:17:20.964 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: search emails
+2025-06-09 10:17:20.965 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: check calendar
+2025-06-09 10:17:20.965 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: add event
+2025-06-09 10:17:20.966 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: connect device
+2025-06-09 10:17:20.966 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: list devices
+2025-06-09 10:17:20.968 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: check security
+2025-06-09 10:17:20.968 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: analyze text
+2025-06-09 10:17:20.969 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: summarize
+2025-06-09 10:17:20.970 | INFO     | modules.voice_commands_new:register_command:242 - Registered command handler for: extract keywords
+2025-06-09 10:17:20.970 | INFO     | __main__:main:354 - Starting Jarvis Assistant...
+2025-06-09 10:17:20.971 | INFO     | __main__:start:329 - Starting Jarvis Assistant...
+2025-06-09 10:17:20.971 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:17:20.992 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:17:22.009 | INFO     | modules.voice_commands_new:start:139 - Please say something to test the microphone...
+2025-06-09 10:17:27.025 | ERROR    | modules.voice_commands_new:start:145 - Microphone test failed: listening timed out while waiting for phrase to start
+2025-06-09 10:17:33.847 | ERROR    | __main__:start:333 - Failed to start voice command system
+2025-06-09 10:17:33.848 | ERROR    | __main__:main:358 - Failed to start Jarvis Assistant
+2025-06-09 10:17:51.080 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:17:51.081 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:17:51.176 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:17:51.177 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:17:51.403 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:17:51.427 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:17:51.428 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:17:51.429 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: send email
+2025-06-09 10:17:51.429 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: read emails
+2025-06-09 10:17:51.430 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: search emails
+2025-06-09 10:17:51.430 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: check calendar
+2025-06-09 10:17:51.430 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: add event
+2025-06-09 10:17:51.431 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: connect device
+2025-06-09 10:17:51.431 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: list devices
+2025-06-09 10:17:51.432 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: check security
+2025-06-09 10:17:51.433 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: analyze text
+2025-06-09 10:17:51.433 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: summarize
+2025-06-09 10:17:51.434 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: extract keywords
+2025-06-09 10:17:51.435 | INFO     | __main__:main:354 - Starting Jarvis Assistant...
+2025-06-09 10:17:51.436 | INFO     | __main__:start:329 - Starting Jarvis Assistant...
+2025-06-09 10:17:51.436 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:17:51.453 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:17:52.470 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:17:57.539 | INFO     | __main__:start:336 - Jarvis Assistant started successfully
+2025-06-09 10:17:57.547 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:17:58.564 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:17:58.564 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:17:59.564 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:18:00.564 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:18:01.564 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:18:02.564 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:18:03.350 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: hey jarvis
+2025-06-09 10:18:03.351 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:19:35.925 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:19:35.926 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:19:36.023 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:19:36.024 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:19:36.273 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:19:36.296 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:19:36.297 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:19:36.297 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: send email
+2025-06-09 10:19:36.298 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: read emails
+2025-06-09 10:19:36.298 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: search emails
+2025-06-09 10:19:36.299 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: check calendar
+2025-06-09 10:19:36.299 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: add event
+2025-06-09 10:19:36.300 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: connect device
+2025-06-09 10:19:36.300 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: list devices
+2025-06-09 10:19:36.301 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: check security
+2025-06-09 10:19:36.301 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: analyze text
+2025-06-09 10:19:36.301 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: summarize
+2025-06-09 10:19:36.302 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: extract keywords
+2025-06-09 10:19:36.303 | INFO     | __main__:main:277 - Starting Jarvis Assistant...
+2025-06-09 10:19:36.304 | INFO     | __main__:start:252 - Starting Jarvis Assistant...
+2025-06-09 10:19:36.304 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:19:36.324 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:19:37.341 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:19:42.403 | INFO     | __main__:start:259 - Jarvis Assistant started successfully
+2025-06-09 10:19:42.412 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:19:43.428 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:19:43.429 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:44.428 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:45.428 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:47.059 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:48.049 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:49.048 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:50.048 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:19:51.859 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:19:52.522 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: hey jarvis
+2025-06-09 10:19:52.522 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:19:52.523 | INFO     | modules.voice_commands_new:_process_command:197 - Listening for command...
+2025-06-09 10:21:36.063 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:21:36.063 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:21:36.311 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Headphones (boAt Stone 650)', 'Speakers (USB Audio Device)', 'Headset (boAt Stone 650)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:21:36.315 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:21:36.636 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:21:36.666 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:21:36.668 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:21:36.669 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: send email
+2025-06-09 10:21:36.670 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: read emails
+2025-06-09 10:21:36.670 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: search emails
+2025-06-09 10:21:36.671 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: check calendar
+2025-06-09 10:21:36.671 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: add event
+2025-06-09 10:21:36.672 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: connect device
+2025-06-09 10:21:36.673 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: list devices
+2025-06-09 10:21:36.673 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: check security
+2025-06-09 10:21:36.674 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: analyze text
+2025-06-09 10:21:36.674 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: summarize
+2025-06-09 10:21:36.675 | INFO     | modules.voice_commands_new:register_command:246 - Registered command handler for: extract keywords
+2025-06-09 10:21:36.675 | INFO     | __main__:main:277 - Starting Jarvis Assistant...
+2025-06-09 10:21:36.676 | INFO     | __main__:start:252 - Starting Jarvis Assistant...
+2025-06-09 10:21:36.676 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:21:36.698 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:21:37.715 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:21:42.793 | INFO     | __main__:start:259 - Jarvis Assistant started successfully
+2025-06-09 10:21:42.807 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:21:43.889 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:21:43.890 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:21:44.890 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:21:45.890 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:21:47.740 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:21:48.450 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: hey jarvis
+2025-06-09 10:21:48.451 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:21:48.451 | INFO     | modules.voice_commands_new:_process_command:197 - Listening for command...
+2025-06-09 10:24:18.761 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:24:18.761 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:24:18.834 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:24:18.835 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:24:19.064 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:24:19.090 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:24:19.091 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:24:19.092 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: send email
+2025-06-09 10:24:19.092 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: read emails
+2025-06-09 10:24:19.093 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: search emails
+2025-06-09 10:24:19.093 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: check calendar
+2025-06-09 10:24:19.093 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: add event
+2025-06-09 10:24:19.094 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: connect device
+2025-06-09 10:24:19.094 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: list devices
+2025-06-09 10:24:19.095 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: check security
+2025-06-09 10:24:19.095 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: analyze text
+2025-06-09 10:24:19.097 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: summarize
+2025-06-09 10:24:19.097 | INFO     | modules.voice_commands_new:register_command:239 - Registered command handler for: extract keywords
+2025-06-09 10:24:19.098 | INFO     | __main__:main:277 - Starting Jarvis Assistant...
+2025-06-09 10:24:19.098 | INFO     | __main__:start:252 - Starting Jarvis Assistant...
+2025-06-09 10:24:19.099 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:24:19.116 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:24:20.114 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:24:20.115 | INFO     | modules.voice_commands_new:speak:244 - Speaking: Microphone test successful. I'm ready to listen.
+2025-06-09 10:24:25.181 | INFO     | __main__:start:259 - Jarvis Assistant started successfully
+2025-06-09 10:24:25.188 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:24:26.184 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:24:26.185 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:24:27.394 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:24:27.984 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:24:30.384 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:24:31.109 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: jarvis
+2025-06-09 10:24:31.110 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:24:31.110 | INFO     | modules.voice_commands_new:_process_command:197 - Listening for command...
+2025-06-09 10:24:31.110 | INFO     | modules.voice_commands_new:speak:244 - Speaking: What can I do for you?
+2025-06-09 10:25:46.721 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:25:46.722 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:25:46.867 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:25:46.868 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:25:47.372 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:25:47.405 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:25:47.407 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:25:47.407 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: send email
+2025-06-09 10:25:47.408 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: read emails
+2025-06-09 10:25:47.408 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: search emails
+2025-06-09 10:25:47.409 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: check calendar
+2025-06-09 10:25:47.409 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: add event
+2025-06-09 10:25:47.410 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: connect device
+2025-06-09 10:25:47.410 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: list devices
+2025-06-09 10:25:47.411 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: check security
+2025-06-09 10:25:47.411 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: analyze text
+2025-06-09 10:25:47.412 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: summarize
+2025-06-09 10:25:47.413 | INFO     | modules.voice_commands_new:register_command:249 - Registered command handler for: extract keywords
+2025-06-09 10:25:47.413 | INFO     | __main__:main:288 - Starting Jarvis Assistant...
+2025-06-09 10:25:47.414 | INFO     | __main__:start:263 - Starting Jarvis Assistant...
+2025-06-09 10:25:47.414 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:25:47.437 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:25:48.434 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:25:48.435 | INFO     | modules.voice_commands_new:speak:254 - Speaking: Microphone test successful. I'm ready to listen.
+2025-06-09 10:25:53.505 | INFO     | __main__:start:270 - Jarvis Assistant started successfully
+2025-06-09 10:25:53.512 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:25:54.504 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:25:54.505 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:25:57.524 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:25:58.220 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:25:59.914 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:26:00.447 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:01.404 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:02.884 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:26:03.600 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:04.484 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:06.804 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:26:07.689 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: unable to connect
+2025-06-09 10:26:07.690 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:08.574 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:26:10.194 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:26:10.845 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: hey jarvis
+2025-06-09 10:26:10.846 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:26:10.846 | INFO     | modules.voice_commands_new:_process_command:197 - Listening for command...
+2025-06-09 10:26:10.846 | INFO     | modules.voice_commands_new:speak:254 - Speaking: What can I do for you?
+2025-06-09 10:28:22.418 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:28:22.419 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:28:22.502 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:28:22.503 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:28:22.728 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:28:22.753 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:28:22.755 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:28:22.756 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: send email
+2025-06-09 10:28:22.756 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: read emails
+2025-06-09 10:28:22.757 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: search emails
+2025-06-09 10:28:22.758 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: check calendar
+2025-06-09 10:28:22.758 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: add event
+2025-06-09 10:28:22.759 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: connect device
+2025-06-09 10:28:22.759 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: list devices
+2025-06-09 10:28:22.760 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: check security
+2025-06-09 10:28:22.760 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: analyze text
+2025-06-09 10:28:22.761 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: summarize
+2025-06-09 10:28:22.762 | INFO     | modules.voice_commands_new:register_command:251 - Registered command handler for: extract keywords
+2025-06-09 10:28:22.762 | INFO     | __main__:main:288 - Starting Jarvis Assistant...
+2025-06-09 10:28:22.763 | INFO     | __main__:start:263 - Starting Jarvis Assistant...
+2025-06-09 10:28:22.763 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:28:22.777 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:28:23.774 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:28:23.774 | INFO     | modules.voice_commands_new:speak:256 - Speaking: Microphone test successful. I'm ready to listen.
+2025-06-09 10:28:28.842 | INFO     | __main__:start:270 - Jarvis Assistant started successfully
+2025-06-09 10:28:28.846 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:28:29.844 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:28:29.844 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:28:30.844 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:28:32.214 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:28:34.124 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:28:34.772 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: jarvis
+2025-06-09 10:28:34.773 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:28:34.773 | INFO     | modules.voice_commands_new:_process_command:199 - Listening for command...
+2025-06-09 10:28:34.773 | INFO     | modules.voice_commands_new:speak:256 - Speaking: What can I do for you?
+2025-06-09 10:29:37.569 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:29:37.569 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:29:37.659 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:29:37.659 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:29:37.887 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:29:37.912 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:29:37.914 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:29:37.915 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: send email
+2025-06-09 10:29:37.916 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: read emails
+2025-06-09 10:29:37.917 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: search emails
+2025-06-09 10:29:37.917 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: check calendar
+2025-06-09 10:29:37.918 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: add event
+2025-06-09 10:29:37.918 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: connect device
+2025-06-09 10:29:37.918 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: list devices
+2025-06-09 10:29:37.919 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: check security
+2025-06-09 10:29:37.919 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: analyze text
+2025-06-09 10:29:37.920 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: summarize
+2025-06-09 10:29:37.920 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: extract keywords
+2025-06-09 10:29:37.921 | INFO     | __main__:main:288 - Starting Jarvis Assistant...
+2025-06-09 10:29:37.921 | INFO     | __main__:start:263 - Starting Jarvis Assistant...
+2025-06-09 10:29:37.923 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:29:37.936 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:29:38.933 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:29:38.934 | INFO     | modules.voice_commands_new:speak:259 - Speaking: Microphone test successful. I'm ready to listen.
+2025-06-09 10:29:44.004 | INFO     | __main__:start:270 - Jarvis Assistant started successfully
+2025-06-09 10:29:44.009 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:29:45.003 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:29:45.004 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:29:46.003 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:29:47.003 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:29:48.003 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:29:49.003 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:29:51.023 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:29:51.625 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: jarvis
+2025-06-09 10:29:51.625 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:29:51.626 | INFO     | modules.voice_commands_new:_process_command:199 - Listening for command...
+2025-06-09 10:29:51.626 | INFO     | modules.voice_commands_new:speak:259 - Speaking: What can I do for you?
+2025-06-09 10:31:51.124 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:31:51.124 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:31:51.208 | INFO     | modules.voice_commands_new:__init__:48 - Available microphones: ['Microsoft Sound Mapper - Input', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Au', 'Microsoft Sound Mapper - Output', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Primary Sound Capture Driver', 'Microphone (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Primary Sound Driver', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Speakers (7.1 Surround Sound)', 'Speakers (Realtek(R) Audio)', 'Speakers (USB Audio Device)', 'Microphone Array (Realtek(R) Audio)', 'Microphone (USB Audio Device)', 'Headphones ()', 'Headphones 1 (Realtek HD Audio 2nd output with SST)', 'Headphones 2 (Realtek HD Audio 2nd output with SST)', 'PC Speaker (Realtek HD Audio 2nd output with SST)', 'Microphone Array (Realtek HD Audio Mic input)', 'Stereo Mix (Realtek HD Audio Stereo input)', 'Speakers 1 (Realtek HD Audio output with SST)', 'Speakers 2 (Realtek HD Audio output with SST)', 'PC Speaker (Realtek HD Audio output with SST)', 'Output 1 ()', 'Output 2 ()', 'Input ()', 'Headset ()', 'Speakers 1 (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers 2 (7.1 Surround Sound Wave Speaker Headphone)', 'Input (7.1 Surround Sound Wave Speaker Headphone)', 'Speakers (USB Audio Device)', 'Microphone (USB Audio Device)']
+2025-06-09 10:31:51.208 | INFO     | modules.voice_commands_new:__init__:52 - Using default microphone: Microsoft Sound Mapper - Input
+2025-06-09 10:31:51.431 | INFO     | modules.voice_commands_new:__init__:103 - Using voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-GB_HAZEL_11.0
+2025-06-09 10:31:51.451 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:31:51.453 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:31:51.454 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: send email
+2025-06-09 10:31:51.454 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: read emails
+2025-06-09 10:31:51.455 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: search emails
+2025-06-09 10:31:51.455 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: check calendar
+2025-06-09 10:31:51.455 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: add event
+2025-06-09 10:31:51.456 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: connect device
+2025-06-09 10:31:51.457 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: list devices
+2025-06-09 10:31:51.457 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: check security
+2025-06-09 10:31:51.458 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: analyze text
+2025-06-09 10:31:51.460 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: summarize
+2025-06-09 10:31:51.460 | INFO     | modules.voice_commands_new:register_command:254 - Registered command handler for: extract keywords
+2025-06-09 10:31:51.461 | INFO     | __main__:main:288 - Starting Jarvis Assistant...
+2025-06-09 10:31:51.461 | INFO     | __main__:start:263 - Starting Jarvis Assistant...
+2025-06-09 10:31:51.461 | INFO     | modules.voice_commands_new:start:132 - Voice command system started
+2025-06-09 10:31:51.477 | INFO     | modules.voice_commands_new:start:137 - Testing microphone...
+2025-06-09 10:31:52.474 | INFO     | modules.voice_commands_new:start:139 - Microphone is ready!
+2025-06-09 10:31:52.474 | INFO     | modules.voice_commands_new:speak:259 - Speaking: Microphone test successful. I'm ready to listen.
+2025-06-09 10:31:57.534 | INFO     | __main__:start:270 - Jarvis Assistant started successfully
+2025-06-09 10:31:57.538 | INFO     | modules.voice_commands_new:_capture_audio:161 - Adjusting for ambient noise... Please wait.
+2025-06-09 10:31:58.533 | INFO     | modules.voice_commands_new:_capture_audio:163 - Microphone is ready!
+2025-06-09 10:31:58.534 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:31:59.533 | INFO     | modules.voice_commands_new:_capture_audio:167 - Listening...
+2025-06-09 10:32:01.373 | INFO     | modules.voice_commands_new:_capture_audio:169 - Audio captured, processing...
+2025-06-09 10:32:02.100 | INFO     | modules.voice_commands_new:_capture_audio:173 - Recognized text: jarvis
+2025-06-09 10:32:02.101 | INFO     | modules.voice_commands_new:_capture_audio:176 - Wake word detected!
+2025-06-09 10:32:02.101 | INFO     | modules.voice_commands_new:_process_command:199 - Listening for command...
+2025-06-09 10:32:02.101 | INFO     | modules.voice_commands_new:speak:259 - Speaking: What can I do for you?
+2025-06-09 10:33:30.742 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:33:30.743 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:33:31.100 | ERROR    | __main__:_init_components:57 - Error initializing components: 'Microphone' object has no attribute 'name'
+2025-06-09 10:33:31.101 | ERROR    | __main__:main:303 - Error in main loop: 'Microphone' object has no attribute 'name'
+2025-06-09 10:33:54.721 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:33:54.721 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:33:55.052 | WARNING  | __main__:_init_gmail:65 - Gmail integration not available: Please download your OAuth 2.0 credentials from Google Cloud Console and save them as 'credentials.json' in the config directory.
+2025-06-09 10:33:55.054 | WARNING  | __main__:_init_openai:84 - OpenAI integration not available: OPENAI_API_KEY not found in environment variables
+2025-06-09 10:33:55.054 | INFO     | __main__:main:288 - Starting Jarvis Assistant...
+2025-06-09 10:33:55.055 | INFO     | __main__:start:263 - Starting Jarvis Assistant...
+2025-06-09 10:34:01.235 | INFO     | __main__:start:270 - Jarvis Assistant started successfully
+2025-06-09 10:36:51.896 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 10:36:51.896 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 10:36:52.221 | INFO     | __main__:main:241 - Starting Jarvis Assistant...
+2025-06-09 10:36:52.221 | INFO     | __main__:start:216 - Starting Jarvis Assistant...
+2025-06-09 10:36:58.386 | INFO     | __main__:start:223 - Jarvis Assistant started successfully
+2025-06-09 11:07:25.506 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:07:25.507 | INFO     | __main__:<module>:30 - Jarvis started listening
+2025-06-09 11:07:26.061 | INFO     | __main__:main:247 - Starting Jarvis Assistant...
+2025-06-09 11:07:32.360 | INFO     | __main__:start:226 - Application started successfully
+2025-06-09 11:13:18.014 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:13:18.014 | INFO     | __main__:<module>:26 - Jarvis started listening
+2025-06-09 11:13:18.016 | ERROR    | __main__:_init_components:71 - Error initializing components: name 'VoiceCommandSystem' is not defined
+2025-06-09 11:13:18.017 | INFO     | __main__:main:279 - Starting Jarvis Assistant...
+2025-06-09 11:13:18.017 | ERROR    | __main__:_init_components:71 - Error initializing components: name 'VoiceCommandSystem' is not defined
+2025-06-09 11:13:18.017 | ERROR    | __main__:start:250 - Failed to initialize components
+2025-06-09 11:13:18.017 | ERROR    | __main__:main:283 - Failed to start Jarvis Assistant
+2025-06-09 11:14:54.090 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:14:54.091 | INFO     | __main__:<module>:27 - Jarvis started listening
+2025-06-09 11:14:54.433 | ERROR    | modules.openai_integration:set_api_key:138 - Error setting API key: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-06-09 11:14:54.434 | ERROR    | __main__:_init_components:50 - Failed to initialize OpenAI integration
+2025-06-09 11:14:54.434 | INFO     | __main__:main:280 - Starting Jarvis Assistant...
+2025-06-09 11:14:54.555 | ERROR    | modules.openai_integration:set_api_key:138 - Error setting API key: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-06-09 11:14:54.555 | ERROR    | __main__:_init_components:50 - Failed to initialize OpenAI integration
+2025-06-09 11:14:54.556 | ERROR    | __main__:start:251 - Failed to initialize components
+2025-06-09 11:14:54.556 | ERROR    | __main__:main:284 - Failed to start Jarvis Assistant
+2025-06-09 11:16:07.144 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:16:07.145 | INFO     | __main__:<module>:27 - Jarvis started listening
+2025-06-09 11:16:07.909 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:16:07.910 | INFO     | __main__:main:280 - Starting Jarvis Assistant...
+2025-06-09 11:16:08.316 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:16:14.739 | INFO     | __main__:start:259 - Application started successfully
+2025-06-09 11:16:47.025 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:16:47.025 | INFO     | __main__:<module>:27 - Jarvis started listening
+2025-06-09 11:16:47.694 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:16:47.694 | INFO     | __main__:main:280 - Starting Jarvis Assistant...
+2025-06-09 11:16:48.084 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:16:54.244 | INFO     | __main__:start:259 - Application started successfully
+2025-06-09 11:19:14.471 | INFO     | core.logger:setup_logging:84 - Logging initialized with level: INFO
+2025-06-09 11:19:14.472 | INFO     | __main__:<module>:27 - Jarvis started listening
+2025-06-09 11:19:15.179 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:19:15.581 | INFO     | modules.openai_integration:set_api_key:135 - OpenAI API key set successfully
+2025-06-09 11:19:21.764 | INFO     | __main__:start:259 - Application started successfully
+2025-06-09 11:19:21.765 | INFO     | __main__:main:286 - Jarvis Assistant is running. Say 'Hey Jarvis' to activate.

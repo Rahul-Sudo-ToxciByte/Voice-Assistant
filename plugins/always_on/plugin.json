@@ -1,0 +1,43 @@
+{
+    "name": "Always-On Voice Activation",
+    "description": "Enables Jarvis to respond to voice commands even when the screen is off or the system is in low-power mode",
+    "version": "1.0.0",
+    "author": "Jarvis Team",
+    "main": "__init__.py",
+    "dependencies": [
+        "pynput",
+        "pywin32"
+    ],
+    "permissions": [
+        "system_monitor",
+        "voice_engine",
+        "notifications"
+    ],
+    "config_schema": {
+        "enabled": {
+            "type": "boolean",
+            "description": "Enable always-on voice activation",
+            "default": true
+        },
+        "low_power_mode": {
+            "type": "boolean",
+            "description": "Use low-power mode for wake word detection when screen is off",
+            "default": true
+        },
+        "wake_on_notification": {
+            "type": "boolean",
+            "description": "Wake screen when important notifications arrive",
+            "default": true
+        },
+        "screen_off_timeout": {
+            "type": "integer",
+            "description": "Time in seconds before entering low-power mode after screen turns off",
+            "default": 30
+        },
+        "power_save_threshold": {
+            "type": "integer",
+            "description": "Battery percentage threshold to enable power saving features",
+            "default": 20
+        }
+    }
+}

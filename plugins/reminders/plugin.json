@@ -1,0 +1,48 @@
+{
+    "name": "Reminders",
+    "version": "0.1.0",
+    "description": "Create and manage reminders and notifications",
+    "author": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://github.com/yourusername/jarvis-assistant",
+    "license": "MIT",
+    "requirements": [
+        "schedule>=1.1.0"
+    ],
+    "permissions": [
+        "notifications"
+    ],
+    "config_schema": {
+        "default_reminder_sound": {
+            "type": "string",
+            "description": "Default sound to play for reminders",
+            "default": "default",
+            "enum": ["default", "bell", "chime", "alarm"]
+        },
+        "reminder_advance_notice": {
+            "type": "integer",
+            "description": "Minutes before a reminder to show advance notice (0 to disable)",
+            "default": 5,
+            "minimum": 0,
+            "maximum": 60
+        },
+        "max_reminders": {
+            "type": "integer",
+            "description": "Maximum number of reminders to store",
+            "default": 100,
+            "minimum": 10,
+            "maximum": 1000
+        },
+        "persistent_reminders": {
+            "type": "boolean",
+            "description": "Whether reminders should persist across restarts",
+            "default": true
+        },
+        "default_reminder_priority": {
+            "type": "string",
+            "description": "Default priority for reminders",
+            "default": "normal",
+            "enum": ["low", "normal", "high", "urgent"]
+        }
+    }
+}

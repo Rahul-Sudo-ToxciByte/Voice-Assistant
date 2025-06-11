@@ -1,0 +1,95 @@
+{
+    "name": "Gmail Integration",
+    "description": "Integrates Gmail with Jarvis for email management and automated tasks",
+    "version": "1.0.0",
+    "author": "Jarvis Team",
+    "main": "__init__.py",
+    "dependencies": [
+        "google-api-python-client",
+        "google-auth-httplib2",
+        "google-auth-oauthlib"
+    ],
+    "permissions": [
+        "notifications",
+        "memory",
+        "nlp_engine"
+    ],
+    "config_schema": {
+        "enabled": {
+            "type": "boolean",
+            "description": "Enable Gmail integration",
+            "default": true
+        },
+        "credentials_file": {
+            "type": "string",
+            "description": "Path to OAuth2 credentials JSON file",
+            "default": "credentials.json"
+        },
+        "token_file": {
+            "type": "string",
+            "description": "Path to OAuth2 token file",
+            "default": "token.json"
+        },
+        "scopes": {
+            "type": "array",
+            "description": "OAuth2 scopes for Gmail API",
+            "items": {
+                "type": "string"
+            },
+            "default": [
+                "https://www.googleapis.com/auth/gmail.readonly",
+                "https://www.googleapis.com/auth/gmail.send",
+                "https://www.googleapis.com/auth/gmail.compose",
+                "https://www.googleapis.com/auth/gmail.modify"
+            ]
+        },
+        "check_interval": {
+            "type": "integer",
+            "description": "Interval in seconds to check for new emails",
+            "default": 300
+        },
+        "max_emails": {
+            "type": "integer",
+            "description": "Maximum number of emails to retrieve at once",
+            "default": 10
+        },
+        "notify_new_emails": {
+            "type": "boolean",
+            "description": "Send notifications for new emails",
+            "default": true
+        },
+        "important_senders": {
+            "type": "array",
+            "description": "List of important email senders to prioritize",
+            "items": {
+                "type": "string"
+            },
+            "default": []
+        },
+        "default_email": {
+            "type": "string",
+            "description": "Default email address to use",
+            "default": ""
+        },
+        "birthday_reminder_time": {
+            "type": "string",
+            "description": "Time to send birthday reminders (24-hour format)",
+            "default": "12:00"
+        },
+        "auto_respond": {
+            "type": "boolean",
+            "description": "Automatically respond to certain emails",
+            "default": false
+        },
+        "contact_sync": {
+            "type": "boolean",
+            "description": "Sync contacts with Google Contacts",
+            "default": true
+        },
+        "calendar_integration": {
+            "type": "boolean",
+            "description": "Enable Google Calendar integration for events and reminders",
+            "default": true
+        }
+    }
+}
